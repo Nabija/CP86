@@ -1,0 +1,13 @@
+.body_backgorund 
+{
+    background-image:url(2176668.webp);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+    border-width: 10px;
+    background-color: aliceblue;
+    border-style: ridge;
+    border-color: royalblue;
+}
